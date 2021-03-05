@@ -1,7 +1,6 @@
-# A Repository for Coursera: The Data Scientist's Toolbox (Peer-Graded) Assignments
+# A Repository for Coursera: The Data Scientist's Toolbox - Assignments
 ___
 
 ## First Assignment :
-   ```HelloWorld.md
-   ```
+`HelloWorld.md`
 ___
